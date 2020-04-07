@@ -1,5 +1,4 @@
 <br>
-<h1><a href="https://www.codenation.dev/">Codenation</a> challenge</h1>
 
 # [Codenation](https://www.codenation.dev)</a> challenge (IMDB - Internet Movies Database)
 
